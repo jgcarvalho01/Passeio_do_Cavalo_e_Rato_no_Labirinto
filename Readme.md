@@ -63,9 +63,9 @@ O algoritmo `rat-in-a-maze.py` resolve o Problema do Rato no Labirinto, onde um 
 ```
 # Inicializando o labirinto
 	maze = [[1, 0, 0, 0],
-			[1, 1, 0, 1],
-			[0, 1, 0, 0],
-			[1, 1, 1, 1]]
+		[1, 1, 0, 1],
+		[0, 1, 0, 0],
+		[1, 1, 1, 1]]
 
 ```
 
